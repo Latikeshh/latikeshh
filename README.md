@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Latikesh!
 
-### 💻 Software Engineer | Java Developer | Open-Source Enthusiast
+### 💻 Software Engineer | Web Developer | Open-Source Enthusiast
 
 I turn ideas into practical software through **clean code, thoughtful design, and continuous learning.** I enjoy exploring software architecture, building developer tools, and contributing to projects that make development easier.
 
