@@ -1,59 +1,79 @@
-# Latikeshh — Software Engineer | Problem Solver 👋
+# 👋 Hey, I'm Latikesh!
 
-Hi — I'm Latikesh, a passionate software engineer who builds reliable, user-centered products. I focus on delivering measurable impact through clean code, thoughtful architecture, and rapid iteration.
+### 💻 Software Engineer | Java Developer | Open-Source Enthusiast
 
----
+I turn ideas into practical software through **clean code, thoughtful design, and continuous learning.** I enjoy exploring software architecture, building developer tools, and contributing to projects that make development easier.
 
-## 🔭 What I do
-
-- Build scalable web and mobile applications with a focus on performance and user experience.
-- Ship end-to-end features: from product design and API design to testing and deployment.
-- Mentor teammates, review code, and improve developer workflows.
-
-## 🚀 Highlights
-
-- Experience with full-stack development (frontend, backend, databases, devops).
-- Strong fundamentals in algorithms, system design, and engineering best practices.
-- Quick learner who turns ideas into production-ready features.
-
-## 🧰 Tech stack
-
-- Languages: JavaScript/TypeScript, Python, Java
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Express, FastAPI
-- Databases: PostgreSQL, MongoDB
-- DevOps & Tools: Docker, GitHub Actions, Vercel, AWS (EC2, S3)
-
-(Shorten or expand this list to match what you use regularly.)
-
-## ⭐ Selected Projects
-
-> Replace these entries with your top repository links (pin them on your profile for recruiters):
-
-- Project One — One-line description of impact and tech used. (e.g., "Real-time chat app — React, Node.js, WebSockets — handled 10k concurrent users")
-- Project Two — One-line description of impact and tech used. (e.g., "E-commerce API — FastAPI, PostgreSQL, Docker — reduced latency by 40%")
-
-## 📈 What recruiters and users care about
-
-- Impact-first storytelling: for each project, list the problem, your specific role, the technologies you used, and measurable outcomes (users, performance, revenue, time saved).
-- Concise, skimmable sections: hiring managers often read the first 15–30 seconds.
-- Links to live demos, case studies, or short videos/screenshots show credibility instantly.
-
-## 📫 Contact & Hire
-
-- GitHub: https://github.com/Latikeshh
-- LinkedIn: (add your LinkedIn URL here)
-- Email: (add your email here)
-
-Open to full-time roles, contract work, and mentorship opportunities. If you're hiring for a role where I can add impact, let's talk — send a message or an email with the role and a time to chat.
+- 🔭 **Currently exploring:** Java development, software architecture, and developer tools
+- 🌱 **Learning:** Modern development practices and scalable software design
+- 🛠️ **Interested in:** Android development, open-source software, and programming libraries
+- 🤝 **Open to:** Open-source collaboration, exciting projects, and learning opportunities
+- 📍 **Based in:** India
 
 ---
 
-## ⚡ Quick tips to make this profile even stronger
+## 🚀 Tech Stack & Tools
 
-1. Pin 3–6 strongest repos showcasing production apps, libraries, or contributions.
-2. Add a short one-minute demo video or GIF for your top project.
-3. Add a downloadable resume link and LinkedIn URL.
-4. Keep the README crisp — recruiters skim, so make the first lines count.
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,python,html,css,react,nodejs,mongodb,mysql,git,github,androidstudio,vscode&perline=7" alt="Technology stack" />
+</p>
 
-Thanks for visiting — excited to build great things together!
+**Core interests:** Java • C++ • Android • Web Development • Databases • Software Engineering
+
+---
+
+## 🌟 Featured Projects
+
+Here are some areas I'm interested in building and improving.
+
+- **📱 Android Development** — Exploring Android applications, development tools, and customization.
+- **⚙️ Developer Libraries** — Building reusable components that simplify software development.
+- **🌐 Web Development** — Creating practical web experiences with an emphasis on usability.
+- **🧩 Open Source** — Exploring existing codebases, improving code organization, and contributing to developer communities.
+
+🔎 Explore my repositories: [github.com/Latikeshh](https://github.com/Latikeshh)
+
+---
+
+## 📊 GitHub at a Glance
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Latikeshh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latikeshh&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=Latikeshh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🎯 My Development Philosophy
+
+- ✨ Write code that is readable, maintainable, and useful.
+- 🧠 Understand the problem before choosing the solution.
+- 🔍 Learn from existing code and continuously improve.
+- 🤝 Build in public, share knowledge, and collaborate.
+- 🚀 Turn promising ideas into working projects.
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in connecting with developers, exploring ideas, and collaborating on meaningful projects.
+
+<p>
+  <a href="https://github.com/Latikeshh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### ⚡ *Keep learning. Keep building. Keep improving.*
+
+⭐ If you find something useful in my repositories, consider giving it a star!
+
